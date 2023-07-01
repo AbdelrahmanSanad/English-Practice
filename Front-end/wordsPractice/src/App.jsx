@@ -34,6 +34,7 @@ const footerStyle = {
   textAlign: "center",
   color: "#fff",
   backgroundColor: "#7dbcea",
+  height: 60,
 };
 
 const App = () => {
