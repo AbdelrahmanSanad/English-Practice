@@ -1,14 +1,14 @@
 # English Test
 
-this app has two parts :
+The English Test App is a web application that allows users to take a multiple choice grammar test and receive a rank based on their score. 
+The app has two parts:
+- a backend built on Node.js and Express.js, 
+- a frontend built on React Vite.
 
-- backend
-- frontend
 
 ## Features
 
-Create English grammar test and provide the the Rank
-
+- Create English grammar test and provide the Rank
 - Get 10 random grammar questions from the server
 - Evaluate the rank based on the score achieved
 
